@@ -1,0 +1,311 @@
+#header{
+    background-color: black;
+    min-height: 80px;
+}
+#imgLogo{
+    margin: auto;
+    padding: auto;
+}
+.workLabel{
+    text-align: center;
+    color: black;
+}
+#header_1{
+    border: 1px solid black;
+    min-height: 80px;
+    background-color: black;
+}
+#navbar{
+    padding-top: 1rem;
+}
+#business1{
+    margin: 0 auto;
+}
+#business2{
+    margin: 0 auto;
+}
+#business3{
+    margin: 0 auto;
+}
+#business4{
+    margin: 0 auto;
+}
+#business5{
+    margin: 0 auto;
+}
+#business6{
+    margin: 0 auto;
+}
+#business7{
+    margin: 0 auto;
+}
+#business8{
+    margin: 0 auto;
+}
+#pd1{
+    margin: auto;
+}
+#pd2{
+    margin: auto;
+}
+#pd3{
+    margin: auto;
+}
+#pd4{
+    margin: auto;
+}
+#pd5{
+    margin: auto;
+}
+#pd6{
+    margin: auto;
+}
+.contactIcon{
+    color: white;
+    font-weight: 2rem;
+}
+.contactIcon:hover{
+    color: #11b8ff;
+    background: white;
+}
+.emailContact a{
+    color: white;
+}
+.emailContact a:hover{
+    text-decoration: none;
+    background-color: white;
+    color: #11b8ff;
+}
+.frames{
+    float: left;
+    margin-left: 6rem;
+    margin-top: 2rem;
+}
+.hiddenInfo{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    display: none;
+    
+}
+.section-title{
+    text-align: center;
+    margin-top: 1em;
+    background-color: #ecf0f1;
+   padding: .5em 0;
+   border-radius: .3em; 
+}
+#smallDevice{
+    text-align: center;
+    font-weight: bold;
+	color: black;
+}
+/* .smallDevice{
+    text-align: center;
+} */
+.social{
+    margin: 5px;
+}
+.titleDescrip{
+    color: black; 
+    font-weight: bold;
+}
+.aboutDesignText{
+    font-weight: bold; 
+    color: black; 
+    text-align: center;
+}
+.graphicInfo{
+    text-align: center;
+    color: black;
+}
+.graphicInfo h3{
+    font-weight: bold;
+}
+
+.frameInfo{
+    text-align: center; 
+    font-size: 2rem; 
+    color: black; 
+    font-weight: bold;
+}
+.footer{
+    background-color: black; 
+    min-height: 270px;
+}
+.whiteText{
+    color: white;
+}
+#footerCol{
+    color: white; 
+    padding-top: 4rem;
+}
+#footerCol1{
+    color: white; 
+    padding-top: 4rem;
+}
+#footerCol2{
+    color: white; 
+    padding-top: 4rem;
+}
+#footerCol3{
+    color: white; 
+    padding-top: 4rem;
+}
+#footerCol4{
+    color: white; 
+    padding-top: 4rem;
+}
+#footerCol5{
+    color: white; 
+    padding-top: 4rem;
+}
+.footerText{
+    border-bottom: 4px solid white; 
+    padding-bottom: 0.5rem;
+}
+#footerIcon1{
+    margin: 5px;
+}
+#footerIcon2{
+    margin: 5px;
+}
+#footerIcon3{
+    margin: 5px;
+}
+#footerIcon4{
+    margin: 5px;
+}
+#footerIcon5{
+    margin: 5px;
+}
+#footerIcon6{
+    margin: 5px;
+}
+#footerIcon7{
+    margin: 5px;
+}
+#footerIcon8{
+    margin: 5px;
+}
+#footerIcon9{
+    margin: 5px;
+}
+#footerLogo{
+    padding-top: 5rem;
+}
+#footerLogo1{
+    padding-top: 5rem;
+}
+#footerLogo2{
+    padding-top: 5rem;
+}
+#contactText{
+    font-weight: bold; 
+    color: black; 
+    text-align: center;
+}
+#footerCol5{
+	color: white;
+	padding-top: 11rem;
+	
+}
+#workPic1{
+    margin: auto;
+}
+#workPic2{
+    margin: auto;
+}
+#workPic3{
+    margin: auto;
+}
+#workPic4{
+    margin: auto;
+}
+#workPic5{
+    margin: auto;
+}
+#art1{
+    margin: auto;
+}
+#art2{
+    margin: auto;
+}
+#art3{
+    margin: auto;
+}
+#label1{
+    margin: auto;
+}
+#label2{
+    margin: auto;
+}
+#brochure1{
+    margin: auto;
+}
+#brochure2{
+    margin: auto;
+}
+#brochure3{
+    margin: auto;
+}
+#mag1{
+    margin: auto;
+}
+#mag2{
+    margin: auto;
+}
+#mag3{
+    margin: auto;
+}
+#mag4{
+    margin: auto;
+}
+#event1{
+    margin: auto;
+}
+#event2{
+    margin: auto;
+}
+#ab1{
+    margin: auto;
+}
+#ab2{
+    margin: auto;
+}
+#ab3{
+    margin: auto;
+}
+#ab4{
+    margin: auto;
+}
+#ab5{
+    margin: auto;
+}
+#ab6{
+    margin: auto;
+}
+#ab7{
+    margin: auto;
+}
+#ab8{
+    margin: auto;
+}
+#ab9{
+    margin: auto;
+}
+#ab10{
+    margin: auto;
+}
+#ab11{
+    margin: auto;
+}
+#ab12{
+    margin: auto;
+}
+#ab13{
+    margin: auto;
+}
+#ab14{
+    margin: auto;
+}
