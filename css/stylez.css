@@ -1,0 +1,320 @@
+#header{
+	margin-bottom: -0.05rem;
+}
+#icon1{
+	display: inline;
+}
+.codeText{
+	font-weight: bold;
+}
+.heading1{
+	font-size: 4rem;
+	color: black;
+	text-align: center;
+}
+.heading4{
+	color: black; 
+	text-align: center; 
+	font-style: italic;
+}
+.mobBorderWh{
+	border: 3px solid white; 
+	margin-top: 2rem;
+}
+.mobBorderBl{
+	border: 3px solid black; 
+	margin-top: 2rem;
+}
+#htmlPara{
+	background-image: url("https://i.imgur.com/0fUzYLO.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80px 90px;
+	text-align: justify;
+}
+#cssPara{
+	background-image: url("https://i.imgur.com/UZV3nDo.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80px 90px;
+	text-align: justify;
+}
+#javasPara{
+	background-image: url("https://i.imgur.com/XGtvmhY.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80px 90px;
+	text-align: justify;
+}
+#jqueryPara{
+	background-image: url("https://i.imgur.com/pD6Bho7.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100px 100px;
+	text-align: justify;
+}
+#phpPara{
+	background-image: url("https://i.imgur.com/K7vx0Qe.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 200px 80px;
+	text-align: justify;
+}
+#sqlPara{
+	background-image: url("https://i.imgur.com/DzJbeCJ.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 150px 75px;
+	text-align: justify;
+}
+#bootstrapPara{
+	background-image: url("https://i.imgur.com/BWrWUIt.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100px 100px;
+	text-align: justify;
+}
+#ajaxPara{
+	background-image: url("https://i.imgur.com/QVnQNwt.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 150px 75px;
+	text-align: justify;
+}
+#footerLogo{
+	margin: 0 auto;
+}
+#footerCopyrightText{
+	color: white;
+	text-align: center;
+}
+#footerCopyrightText1{
+	color: white;
+	text-align: center;
+	margin-top: 5rem;
+}
+#footerCopyrightText2{
+	text-align: center;
+	
+}
+#contact1{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact2{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact3{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact4{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact5{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact6{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact7{
+	display: inline;
+	margin-right: 1rem;
+}
+#contact8{
+	display: inline;
+	margin-right: 1rem;
+}
+.links{
+
+	color: white;
+	
+}
+#footer{
+    background-color: black;
+}
+#function{
+	min-height: 250px;
+	background-size: 100% 250px;
+	background-repeat: no-repeat;
+}
+#discussion{
+	min-height: 300px;
+	background-size: 100% 300px;
+	background-repeat: no-repeat;
+}
+#develop{
+	min-height: 280px;
+	background-size: 100% 280px;
+	background-repeat: no-repeat;
+}
+#design{
+	min-height: 280px;
+	background-size: 100% 280px;
+	background-repeat: no-repeat;
+}
+#editing{
+	min-height: 250px;
+	background-size: 100% 250px;
+	background-repeat: no-repeat;
+}
+#upload{
+	min-height: 250px;
+	background-size: 100% 250px;
+	background-repeat: no-repeat;
+}
+.stepHeading{
+	color: white;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph{
+	color: white;
+	text-align: left;
+	padding: 5px;
+	font-size: 1.75rem;
+}
+.stepHeading1{
+	color: black;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph1{
+	color: black;
+	text-align: left;
+	padding: 5px;
+	font-size: 1.75rem;
+}
+.stepHeading2{
+	color: white;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph2{
+	color: white;
+	text-align: left;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 1.75rem;
+}
+.stepHeading3{
+	color: black;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph3{
+	color: black;
+	text-align: left;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 1.75rem;
+}
+.stepHeading4{
+	color: white;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph4{
+	color: white;
+	text-align: left;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 1.75rem;
+}
+.stepHeading5{
+	color: white;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.stepParagraph5{
+	color: white;
+	text-align: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 1.75rem;
+}
+.impText{
+	font-style: italic;
+	font-weight: bolder;
+}
+#servContainer{
+	border: 1px solid rgb(71, 205, 255);
+	border-radius: 25px;
+	background-color: rgb(71, 205, 255);
+}
+#servLogo{
+	background-color: white;
+	border-radius: 15px;
+}
+#servLayout{
+	background-color: white;
+	border-radius: 15px;
+}
+#servSEO{
+	background-color: white;
+	border-radius: 15px;
+}
+#servRespond{
+	background-color: white;
+	border-radius: 15px;
+}
+#servDevelop{
+	background-color: white;
+	border-radius: 15px;
+}
+#mobileServContainer{
+	border: 1px solid rgb(71, 205, 255);
+	border-radius: 25px;
+	background-color: rgb(71, 205, 255);
+}
+#mobServLogo{
+	background-color: white;
+	border-radius: 15px;
+}
+#mobServWeb{
+	background-color: white;
+	border-radius: 15px;
+}
+#mobServSeo{
+	background-color: white;
+	border-radius: 15px;
+}
+#mobServRespond{
+	background-color: white;
+	border-radius: 15px;
+}
+#mobServDevelop{
+	background-color: white;
+	border-radius: 15px;
+}
+.charityText{
+	text-align: center; 
+	font-size: 3rem; 
+	color: rgb(208, 23, 37);
+}
+.designText{
+	text-align: center; 
+	font-size: 3rem; 
+	color: black;
+}
+#charityBtn{
+	background-color: rgb(208, 23, 37); 
+	border-color: rgb(208, 23, 37);
+}
+#designBtn{
+	background-color: black; 
+	border-color: black;
+}
+.cenText{
+	text-align: center;
+}
