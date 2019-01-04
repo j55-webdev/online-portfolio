@@ -1,0 +1,21 @@
+User-agent:*
+Disallow: /dist/css/bootstrap.css
+Disallow: /dist/css/bootstrap.css.map
+Disallow: /dist/css/bootstrap.min.css
+Disallow: /dist/css/bootstrap-theme.css
+Disallow: /dist/css/bootstrap-theme.css.map
+Disallow: /dist/css/bootstrap-theme.min.css
+Disallow: /dist/css/icomoon.css
+Disallow: /dist/css/styles.css
+
+Disallow: /dist/js/bootstrap.js
+Disallow: /dist/js/bootstrap.min.js
+Disallow: /dist/js/collage.js
+Disallow: /dist/js/jquery.js
+Disallow: /dist/js/npm.js
+
+Disallow: /dist/font/glyphicons-halflings-regular.eot
+Disallow: /dist/font/glyphicons-halflings-regular.svg
+Disallow: /dist/font/glyphicons-halflings-regular.ttf
+Disallow: /dist/font/glyphicons-halflings-regular.woff
+Disallow: /dist/font/glyphicons-halflings-regular.woff2
